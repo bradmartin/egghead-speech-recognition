@@ -1,0 +1,6 @@
+<Page>
+    <StackLayout> 
+        <Button text="Start" tap="start" />
+        <Button text="Stop" tap="stop" />
+    </StackLayout>
+</Page>
